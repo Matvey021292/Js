@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding:0;
+}
+p{
+    font-family:Myriad "Myriad Pro";
+    font-size: 12px;
+}
+.container{
+    max-width: 1600px;
+    height: auto;
+}
+.banner{
+    background: url("Images/Baner.png");
+    width: 100%;
+}
